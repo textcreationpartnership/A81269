@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Col. John Michelburne late Governor of Londonderry; and the regiment then under his command.</title>
+            <author>Michelborne, John, 1647-1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1703</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81269</idno>
+            <idno type="STC">Wing C894A</idno>
+            <idno type="STC">ESTC N68208</idno>
+            <idno type="EEBO-CITATION">99895550</idno>
+            <idno type="PROQUEST">99895550</idno>
+            <idno type="VID">153086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2346:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Col. John Michelburne late Governor of Londonderry; and the regiment then under his command.</title>
+                  <author>Michelborne, John, 1647-1721.</author>
+               </titleStmt>
+               <extent>3,[1]p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1703?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+                  <note>Wing CD-ROM, 1996 suggests date of 1699?.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Michelborne, John, 1647-1721 --  Trials, litigation, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="docket_title">
+            <p>1699</p>
+            <p>Col. <hi>Michelburne'</hi>s CASE</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153086:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:153086:1" rendition="simple:additions"/>
+            <head>THE CASE OF Col. John Michelburne, Late Governor of <hi>Londonderry;</hi> AND THE REGIMENT then under his Command.</head>
+            <p>THE Eminent and Acceptable Service perform'd to the Crown of <hi>England,</hi> in that vigorous and gallant Defence of the City of <hi>Lon<g ref="char:EOLhyphen"/>donderry,</hi> during the Siege which was begun by the <hi>Iriſh</hi> in the Year 1689, is ſo well known, that it will need no further Recom<g ref="char:EOLhyphen"/>mendation here, than to ſhew the Opinion which the beſt of Judges had thereof, even the King Himſelf; as may appear by that moſt Gracious Letter which He was pleas'd to ſend to the Governors, immediately after the Raiſing of the Siege: The Copy whereof follows.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>WILLIAM REX,</signed>
+                     <lb/>
+                     <salute>TRuſty and Well-Beloved, We greet you well:</salute>
+                  </opener>
+                  <p>The eminent and extraordinary Service you have perform'd to <g ref="char:V">Ʋ</g>s and Our Kingdoms in general, by your late reſolute and unparallell'd Defence of that Our City of <hi>Londonderry,</hi> as it doth oblige us in the firſt place to an humble Acknowledgment to Almighty God for his ſignal Mer<g ref="char:EOLhyphen"/>cies in ſupporting the Hearts and Courage of our good Subjects, amongſt thoſe great and various Diſtreſſes, ariſing from a furious Oppoſition without, and yet a more preſſing Neceſſity within thoſe Walls, and ſending them at laſt Deliverance, and bringing them by your Conduct to triumph over their Enemies, which we cannot but attribute to an im<g ref="char:EOLhyphen"/>mediate Divine Aſſiſtance, inſpiring them with a Zeal for the True Religion, a Love for their Country, and an unſhaken Fidelity towards us; and muſt ever own it as a con<g ref="char:EOLhyphen"/>tinuance of that Miraculous Providence, which has hitherto conducted us throughout in our Endeavours to re-ſettle theſe Nations in all their Civil and Religious Rights and Li<g ref="char:EOLhyphen"/>berties: So, in the next place, taking into Our ſerious Conſideration, as well the Impor<g ref="char:EOLhyphen"/>tance of this Succeſs, as the Conſtancy and Bravery by which it has been brought to paſs; We will not omit ſignifying to You the juſt ſenſe We have of the whole Action; in which having the greateſt Opportunity that can be put into your hands of any Subjects of obliging their Prince, You have in all Points acquitted your ſelves to Our ſatisfaction, even beyond what could be expected: Inſomuch, that it now lies on Our part to make ſuch Retribution, as well to You, the Commanders in Chief, who have been the happy Inſtruments, under God, of this Deliverance; as others, who have ſignaliz'd their Loyalty, Courage, and Patience in this time of Tryal; that all Our Subjects being encou<g ref="char:EOLhyphen"/>raged
+<pb n="2" facs="tcp:153086:2"/>by this Example, may be ſtirred up to the Imitation of it in the like Hazardous, but Honourable Enterprizes: We Will therefore, that you rely on Our Royal Favour towards You; as alſo, that in Our Name, you aſſure the Officers, Soldiers and Inhabitants of that City, that We will take a fitting Occaſion to recompence their Sufferings and Services in Our Cauſe: So that neither they, nor any other of Our Loving Subjects, ſhall ever have reaſon to repent them of a Faithful diſcharge of their Duty. And ſo We bid you farewell.</p>
+                  <closer>
+                     <dateline>Given at Our Court at <hi>Hampton-Court</hi> 
+                        <date>this 16th Day of <hi>Auguſt,</hi> 1689.</date>
+                     </dateline> 
+                     <signed>Shrewsbury.</signed>
+                  </closer>
+                  <trailer>To <hi>George Walker,</hi>and <hi>John Michelburne,</hi> Eſquires, Governors of <hi>Londonderry.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>Yet notwithſtanding that His Majeſty had ſo largely expreſs'd His Gracious Acceptance of this Service; upon the Stating of the Accompts of the Army in <hi>Ireland</hi> (which now lies before the Parliament) the ſaid Colonel <hi>Michelburne</hi> and Regiment, are not brought into Pay till <hi>January</hi> following, which was the Year 1690, which excludes them 10 Months and 25 Days ſhort of the reſt of the For<g ref="char:EOLhyphen"/>ces; notwithſtanding they receiv'd Commiſſions, Muſtered, and did Duty equal with the reſt of the Army: And what Money, Cloaths and Proviſions they re<g ref="char:EOLhyphen"/>ceiv'd in the Year 1689, was ſtopt from them out of their Pay in the Year fol<g ref="char:EOLhyphen"/>lowing; becauſe (as they were told) they were not put upon the Eſtabliſhment till that time: And that this may appear beyond contradiction, we have thought fit to inſert the Copy of a Report, upon the Petition of Colonel <hi>Michelburne,</hi> re<g ref="char:EOLhyphen"/>ferr'd to a Committee of the Honourable Houſe of Commons, in the Year 1698.</p>
+            <p>
+               <q>UPon Examination of the Matter contained in Colonel <hi>Michelburne</hi>'s Peti<g ref="char:EOLhyphen"/>tion; It doth appear to this Committee, by a Commiſſion under His Majeſty's Hand (when Prince of <hi>Orange</hi>) bearing date the 5th Day of <hi>February</hi> 1688, That the ſaid Colonel <hi>Michelburne</hi> was thereby appointed Major of a Regiment Commanded by Colonel <hi>Sheffinton;</hi> with which Regiment the ſaid Colonel <hi>Michelburne</hi> march'd into the Town of <hi>Londonderry</hi> in <hi>April</hi> before the late Siege, where he continued with his Regiment in Defence of the Place till the Death of Colonel <hi>Baker,</hi> which happen'd about the middle of <hi>June,</hi> when Colonel <hi>Michelburne</hi> was choſen by the whole Gariſon Governor and Com<g ref="char:EOLhyphen"/>mander in Chief with Dr. <hi>Walker;</hi> the ſaid Colonel <hi>Michelburne</hi> performing all the Duty during all the Difficulties of the Siege, having all the Charge of the Military part; and, by God's Bleſſing and Aſſiſtance, defended the City to the laſt Extremity, until happily reliev'd with Proviſions by Major-General <hi>Kirke:</hi> Upon which the Enemy rais'd their Siege, burnt their Camp, and march'd off.</q>
+            </p>
+            <p>
+               <q>That upon Major-General <hi>Kirke</hi>'s coming into the Town, the ſaid Colonel drew out the Gariſon, when the ſaid Major-General did Muſter the ſaid Co<g ref="char:EOLhyphen"/>lonel <hi>Michelburne</hi>'s Regiment upon View, and gave him a Commiſſion, dated the 3d Day of <hi>Auguſt</hi> 1689, to be ſole Governor of the ſaid City, and Colonel of the ſaid Regiment.</q>
+            </p>
+            <p>
+               <q>And it further appeared to this Committee, by His Majeſty's Royal Letter un<g ref="char:EOLhyphen"/>der His Sign-Manual, dated the 6th of <hi>Auguſt</hi> 1689, Counter-ſign'd, <hi>Shrewsbury,</hi> and Directed to <hi>George Walker</hi> and <hi>John Michelburne,</hi> Eſquires, Governors of <hi>Londonderry;</hi> Graciouſly acknowledging the <hi>Eminent and Extraordinary Servi<g ref="char:EOLhyphen"/>ces perform'd by them</hi> (as His Majeſty was pleas'd to Expreſs it) <hi>in the reſolute and unparallell'd Defence of the ſaid Town;</hi> and therein promiſing a juſt <hi>Retri<g ref="char:EOLhyphen"/>bution, as well to the Commanders in Chief, who had been the happy Inſtruments, un<g ref="char:EOLhyphen"/>der God, of that Deliverance, as others, who Signaliz'd their Loyalty, Courage, and Patience in that time of Tryal;</hi> and that His Majeſty would <hi>Recompence their ſaid Service and Sufferings.</hi>
+               </q>
+            </p>
+            <p>
+               <q>And it further appeared to this Committee, That the ſaid Colonel with his Regiment in <hi>February</hi> 1689, by the Command of Duke <hi>Schonberg,</hi> did join the Army, and was poſted upon the Frontiers, and hath continued in His Majeſty's Service till the 4th of <hi>April</hi> laſt paſt, when they were Disbanded in <hi>Ireland.</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:153086:2"/>
+               <q>And it further appeared, That His Majeſty was Graciouſly pleaſed by his Commiſſion dated the 11th Day of <hi>Auguſt</hi> 1690, to confirm the ſaid Colonel <hi>Michelburne</hi> the Command of Colonel of the ſaid Regiment, with a Clauſe in the ſaid Commiſſion, To take place, as if the ſaid Commiſſion bore date the 10th Day of <hi>March</hi> 1688.</q>
+            </p>
+            <p>
+               <q>It alſo further appeared to the Committee, by an Accompt Sign'd by Mr. <hi>Pansford,</hi> Deputy to Mr. <hi>Fox,</hi> Paymaſter-General of <hi>Ireland,</hi> That there remain'd due to Colonel <hi>Michelburne</hi> and his Regiment for their Pay, from the Firſt of <hi>January</hi> 1689, 16028 <hi>l.</hi> 18 <hi>s.</hi> Out of which Sum there ought to be deducted as paid to the ſaid Colonel for the Uſe of his Regiment at three ſeveral Payments, before they were upon the <hi>Engliſh</hi> Eſtabliſhment, 1078 <hi>l.</hi> 19 <hi>s.</hi> 6 <hi>d.</hi> as is certify'd by Mr. <hi>Abbott,</hi> then the Deputy to Mr. <hi>Har<g ref="char:EOLhyphen"/>bord,</hi> late Paymaſter-General of His Majeſty's Forces in <hi>Ireland;</hi> ſo that there remains due to the ſaid Regiment on this Foot 14949 <hi>l.</hi> 18 <hi>s.</hi> 6 <hi>d.</hi>
+               </q>
+            </p>
+            <p>
+               <q>There alſo remains due to the ſaid Colonel <hi>Michelburne</hi> for his Pay, as Gover<g ref="char:EOLhyphen"/>nor of <hi>Londonderry,</hi> at 20 <hi>s. per Diem,</hi> during the time he Commanded there, 992 <hi>l.</hi>
+               </q>
+            </p>
+            <p>
+               <q>And the ſaid Colonel <hi>Michelburne</hi> delivered in a Liſt of the Officers of his ſaid Regiment, which is hereunto annex'd.</q>
+            </p>
+            <p>Upon which Report the Honourable <hi>Houſe of Commons</hi> were pleas'd to Addreſs His Majeſty on his behalf; but being ſtill wanting of their Pay, he is inforc'd to make this further Application; in which he asks no more, but that he may be put upon equal Terms with the reſt of the Army; whereas he and his Regiment have not yet receiv'd any Pay (excepting the above-mention'd 1078 <hi>l.</hi> 19 <hi>s.</hi> 6 <hi>d.</hi>) for Ten Months and Twenty-five Days, in which that Remarkable Defence of <hi>Derry</hi> is comprehended: And therefore he hopes it may be thought but juſt, That as much Regard ſhould be had to this Debt, as to any other Arrears of the Army, ſince the Service perform'd for it hath been eſteem'd of as great Conſe<g ref="char:EOLhyphen"/>quence to the Nation, as any thing elſe that hath been done during the War, by thoſe that receiv'd their Pay in due time.</p>
+            <p>It may further be offered in behalf of Colonel <hi>Michelburne,</hi> That 'twas the con<g ref="char:EOLhyphen"/>tinuing in his Poſt, and not leaving it at a time when the Service required his Attendance, that brought him under this inconvenience and loſs: For who can doubt, but that if he had come for <hi>England</hi> with Dr. <hi>Walker,</hi> he had been at leaſt as well intituled to a Reward for his Services as the Doctor; upon whom His Majeſty moſt bountifully beſtow'd 5000 <hi>l.</hi> and alſo might have procured his Regiment to have been then put upon the Eſtabliſhment, and have receiv'd their Pay in order as well as others? But indeed it hath not only been his misfortune to have receiv'd no Reward, but even the Government of <hi>Derry,</hi> in which he had been Commiſſion'd, was procured over his head by a Gentleman that had the opportunity of making Application for it in <hi>England,</hi> while he was proſecuting the Service of <hi>Ireland.</hi> And notwithſtanding he had arriv'd to the Poſt of being the Eldeſt Colonel (next the General Officers) of the whole Army in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> yet he was one of the firſt that was reduc'd in the Disbanding the Forces there.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
